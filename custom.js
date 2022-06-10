@@ -71,4 +71,10 @@ jQuery(document).ready(function() {
 
     // console.log(typeof(arr));
     // console.log(arrObj);
+
+    //function parameter length
+    function abc(b, bgf, fgds, sdf, dssd, fds, ods, fdsf, ds, fdsfds) {
+        console.log('sdfdsffdsfdssdsfdf');
+    };
+    console.log(abc.length);
 });
